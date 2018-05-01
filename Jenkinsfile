@@ -10,4 +10,7 @@ pipeline {
       }
     }
   }
+  environment {
+    My_Name = 'Sri'
+  }
 }
